@@ -1,0 +1,8 @@
+[26/05/2026 19:55:12] Sistema Iniciado
+[26/05/2026 19:55:49] Sistema Iniciado
+[26/05/2026 19:56:25] Arquivo selecionado: backup_origem.txt
+[26/05/2026 19:56:28] O arquivo backup_origem.txt foi visualizado.
+[26/05/2026 19:56:49] Arquivo copiado de C:/Users/marcelo62882456/Desktop/TRABALHOS/ADMINISTRADORES_ARQUIVOS/backup_origem.txt para C:/Users/marcelo62882456/Desktop/TRABALHOS/ADMINISTRADORES_ARQUIVOS/cripo com criptografia. Hash gerado: ee1ee2b8508074cd277d5e86c2d06dabf651ced1c96c0dedb435faf5d5bbde52
+[26/05/2026 19:56:56] O arquivo backup_origem.txt foi visualizado.
+[26/05/2026 19:57:07] Arquivo selecionado: backup_origem_hash.txt
+[26/05/2026 19:57:10] O arquivo backup_origem_hash.txt foi visualizado.
